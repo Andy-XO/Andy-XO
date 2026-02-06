@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Andy-XO
-- 👀 I’m interested in Changing Everything!
-- 🌱 I’m currently learning API's fundamentals for daily life objectives.
-- 💞️ I’m looking to collaborate on API's and LLM's
-- 📫 How to reach me ... [AFK for time being]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can love SPEED!!!
+Hi, I'm Atharva
+
+I build projects in:
+- AI & Machine Learning
+- Embedded Systems & Drones
+- Full-stack Web Development
+
+Currently working on:
+- AI logistics / hackathon projects
+- Raspberry Pi + Computer Vision
+- Autonomous drone systems
+
+Tech stack:
+Python, C++, Java, Node.js, MongoDB, Raspberry Pi, ESP32
+
+Goal:
+Building intelligent systems combining hardware + AI.
+
 
 <!---
 Andy-XO/Andy-XO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
