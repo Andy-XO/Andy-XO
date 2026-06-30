@@ -9,7 +9,7 @@
 
 <!-- ╭──────────────────────────  HERO BANNER  ──────────────────────────╮ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andy-XO/Andy-XO/main/assets/hero-banner.svg" alt="Atharva Patil, AI and Robotics Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Andy-XO/Andy-XO/main/assets/hero-banner.svg?v=2" alt="Atharva Patil, AI and Robotics Engineer" width="100%"/>
 </p>
 
 <!-- ╭──────────────────────────  TYPING MISSION  ───────────────────────╮ -->
