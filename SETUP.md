@@ -8,16 +8,19 @@ dashboard. Everything is **production-ready**. Follow the steps below.
 ## 📁 Folder Structure
 
 ```
-github-profile/
+Andy-XO/  (your profile repo)
 ├── README.md                       # The profile (renders on github.com/Andy-XO)
 ├── SETUP.md                        # This guide
 ├── assets/
 │   ├── hero-banner.svg             # Custom animated hero (handcrafted SVG)
-│   └── footer-wave.svg             # Animated footer wave + tagline
+│   ├── footer-wave.svg             # Animated footer wave + tagline
+│   └── stats.svg                   # Baked stats card (auto-generated, served from repo)
+├── scripts/
+│   └── gen_stats.py                # Builds stats.svg from live GitHub data
 └── .github/
     └── workflows/
         ├── snake.yml               # Contribution snake animation → `output` branch
-        └── metrics.yml             # GitHub Metrics dashboard (optional, needs token)
+        └── stats.yml               # Refreshes stats.svg twice a day (no token needed)
 ```
 
 ---
@@ -56,9 +59,8 @@ git push -u origin main
 
 Open `https://github.com/Andy-XO` — the profile is live. ✨
 
-> **Note:** the contribution snake and (optional) metrics images will show as
-> broken for a few minutes until their Actions run for the first time. That's
-> expected — see below.
+> **Note:** the contribution snake image shows as broken for a few minutes
+> until its Action runs for the first time. That's expected — see below.
 
 ---
 
@@ -76,20 +78,21 @@ After that it auto-refreshes every 12 hours. No token required.
 
 ---
 
-## 📊 (Optional) Enable GitHub Metrics
+## 📊 Stats Card (no setup needed)
 
-The metrics dashboard needs a token because it reads richer data.
+The Analytics section uses a **baked stats card** (`assets/stats.svg`) instead of
+the public stat services that frequently rate-limit (503 / 402). It's a real SVG
+committed to your repo, so GitHub serves it directly and it can never break.
 
-1. Create a token → https://github.com/settings/tokens (classic)
-   - Scopes: **`repo`**, **`read:user`**
-2. Repo → **Settings → Secrets and variables → Actions → New repository secret**
-   - Name: `METRICS_TOKEN`
-   - Value: *(your token)*
-3. Run the **"GitHub Metrics"** workflow once.
-4. Add this line to README.md wherever you want it (e.g. in the Analytics section):
-   ```markdown
-   <p align="center"><img width="95%" src="./assets/metrics.svg" alt="GitHub Metrics"/></p>
-   ```
+- **Generator:** `scripts/gen_stats.py` pulls your public stats (followers, repos,
+  stars, forks, top languages) from the GitHub API and renders the cyan-dark card.
+- **Auto-refresh:** `.github/workflows/stats.yml` regenerates it twice a day using
+  the built-in `GITHUB_TOKEN` — **no personal token or secret required.**
+- **Regenerate on demand:** Actions tab → **"Refresh Stats Card"** → Run workflow.
+- **Change what it shows:** edit the theme colors or layout in `gen_stats.py`.
+
+> Want more repos/languages reflected? The card counts your **public** repos.
+> Make a private repo public and the next refresh picks it up automatically.
 
 Skip this entirely if you don't want it — the rest of the profile is unaffected.
 
@@ -157,14 +160,12 @@ In the Featured Projects table, wrap a card title in a link:
 | Feature | Service |
 |---------|---------|
 | Hero & footer banners | Handcrafted animated SVG (this repo) |
+| **Stats card** | **Baked SVG from `scripts/gen_stats.py` (this repo) — can't rate-limit** |
 | Typing animation | `readme-typing-svg.demolab.com` |
 | Tech badges | `img.shields.io` |
-| Stats / Top languages | `github-readme-stats.vercel.app` |
 | Streak | `github-readme-streak-stats.herokuapp.com` |
 | Activity graph | `github-readme-activity-graph.vercel.app` |
-| Trophies | `github-profile-trophy.vercel.app` |
 | Snake | `Platane/snk` GitHub Action |
-| Metrics (optional) | `lowlighter/metrics` GitHub Action |
 | Visitor counter | `komarev.com/ghpvc` |
 
 ---
@@ -175,7 +176,7 @@ In the Featured Projects table, wrap a card title in a link:
 - [ ] `README.md` + `assets/` + `.github/` pushed to `main`
 - [ ] Snake workflow run once → `output` branch exists
 - [ ] LinkedIn + X placeholders replaced with real URLs
-- [ ] (Optional) `METRICS_TOKEN` added + metrics workflow run
+- [ ] Stats card (`assets/stats.svg`) present and rendering
 - [ ] Profile looks right on desktop **and** mobile
 
 ---

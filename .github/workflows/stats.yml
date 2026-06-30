@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────────────────────────────
+#  Refresh Stats Card
+#  Regenerates assets/stats.svg from live public GitHub data and commits it
+#  back to the repo. Because the card is served from the repo (not a shared
+#  public service), it can NEVER be rate-limited (no more 503 / 402).
+#
+#  Uses the built-in GITHUB_TOKEN — NO personal token or secret required.
+# ───────────────────────────────────────────────────────────────────────
+name: Refresh Stats Card
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # twice a day
+  workflow_dispatch:          # run on demand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate stats card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/gen_stats.py Andy-XO assets/stats.svg
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- assets/stats.svg; then
+            git add assets/stats.svg
+            git commit -m "chore: refresh stats card [skip ci]"
+            git push
+          else
+            echo "Stats unchanged — nothing to commit."
+          fi
