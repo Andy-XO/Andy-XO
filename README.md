@@ -1,7 +1,7 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════════╗
   ║  ATHARVA PATIL · GitHub Profile README                                 ║
-  ║  Identity: Engineer — AI · Robotics · Autonomous Systems               ║
+  ║  Identity: Engineer, AI · Robotics · Autonomous Systems               ║
   ║  Theme: Mission-Control Dark · Cyan / Electric Blue                    ║
   ║  Repo:  Andy-XO/Andy-XO  (special profile repo)                        ║
   ╚══════════════════════════════════════════════════════════════════════╝
@@ -9,7 +9,7 @@
 
 <!-- ╭──────────────────────────  HERO BANNER  ──────────────────────────╮ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andy-XO/Andy-XO/main/assets/hero-banner.svg" alt="Atharva Patil — Engineer, Intelligent Autonomous Systems" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Andy-XO/Andy-XO/main/assets/hero-banner.svg" alt="Atharva Patil, AI and Robotics Engineer" width="100%"/>
 </p>
 
 <!-- ╭──────────────────────────  TYPING MISSION  ───────────────────────╮ -->
@@ -46,7 +46,7 @@
 
 I build systems that **perceive, reason, and act** in the physical world.
 
-My work lives at the boundary where machine intelligence meets hardware — autonomous aircraft that hold their position without GPS, edge devices that run neural inference with no link to the cloud, and control software that turns raw sensor streams into decisions in milliseconds. I treat **intelligence as an engineering discipline**: designed against real constraints — power budgets, latency ceilings, and the unforgiving physics of flight — then measured, hardened, and deployed.
+My work lives at the boundary where machine intelligence meets hardware, autonomous aircraft that hold their position without GPS, edge devices that run neural inference with no link to the cloud, and control software that turns raw sensor streams into decisions in milliseconds. I treat **intelligence as an engineering discipline**: designed against real constraints, power budgets, latency ceilings, and the unforgiving physics of flight, then measured, hardened, and deployed.
 
 The throughline is **autonomy**: machines that understand their environment and close the loop between perception and action without a human in it. Models that fly. Inference that runs at the edge. Software that holds up outside the lab.
 
@@ -58,7 +58,7 @@ The throughline is **autonomy**: machines that understand their environment and 
 
 ## `02` ⟶ &nbsp;Engineering Profile
 
-I engineer intelligent systems end to end — from **neural architecture and computer-vision pipelines**, through **sensor fusion, SLAM, and flight control**, down to **embedded firmware and cloud telemetry**. The work fuses artificial intelligence, machine learning, robotics, autonomous systems, embedded computing, data engineering, and aerospace technology into platforms that operate reliably in the real world.
+I engineer intelligent systems end to end, from **neural architecture and computer-vision pipelines**, through **sensor fusion, SLAM, and flight control**, down to **embedded firmware and cloud telemetry**. The work fuses artificial intelligence, machine learning, robotics, autonomous systems, embedded computing, data engineering, and aerospace technology into platforms that operate reliably in the real world.
 
 ```yaml
 engineer:
@@ -88,13 +88,13 @@ Onboard perception, planning, and **GPS-denied navigation** for aircraft that fl
 <td valign="top" width="33%">
 
 #### ⚡ Edge & Embedded AI
-Running **optimized neural models** on constrained hardware — quantized inference at the edge, offline and in real time.
+Running **optimized neural models** on constrained hardware, quantized inference at the edge, offline and in real time.
 
 </td>
 <td valign="top" width="33%">
 
 #### 🧠 Offline LLM Systems
-**Private, on-device reasoning** — language models and RAG that run with no cloud dependency and no data leaving the device.
+**Private, on-device reasoning**, language models and RAG that run with no cloud dependency and no data leaving the device.
 
 </td>
 </tr>
@@ -169,7 +169,7 @@ Running **optimized neural models** on constrained hardware — quantized infere
 
 ## `05` ⟶ &nbsp;Skills Matrix
 
-<sub>Tiered honestly — **Core** (build with daily) · **Working Knowledge** (productive) · **Currently Learning** (actively leveling up) · **Research Interest**.</sub>
+<sub>Tiered honestly, **Core** (build with daily) · **Working Knowledge** (productive) · **Currently Learning** (actively leveling up) · **Research Interest**.</sub>
 
 <details open>
 <summary><b>&nbsp;Languages</b></summary>
@@ -311,7 +311,7 @@ Running **optimized neural models** on constrained hardware — quantized infere
 ### 🛰 VoltAeroTech
 **Deep-tech venture · Autonomous aerial systems**
 
-Founder-led venture building autonomous drone platforms for logistics, inspection, and defense — uniting flight control, onboard AI perception, and cloud fleet management into one stack.
+Founder-led venture building autonomous drone platforms for logistics, inspection, and defense, uniting flight control, onboard AI perception, and cloud fleet management into one stack.
 
 `AI` `Robotics` `Aerospace` `Embedded` `Cloud`
 
@@ -339,7 +339,7 @@ Autonomous payload delivery with mission planning, real-time obstacle avoidance,
 ### 🧭 GPS-Denied Drone Navigation
 **Navigation without satellites**
 
-Visual-inertial navigation for stable flight where GPS is jammed or unavailable — fusing SLAM, optical flow, and inertial data for onboard position estimation.
+Visual-inertial navigation for stable flight where GPS is jammed or unavailable, fusing SLAM, optical flow, and inertial data for onboard position estimation.
 
 `SLAM` `Sensor Fusion` `OpenCV` `ROS` `Edge AI`
 
@@ -367,7 +367,7 @@ Decision-support platform delivering crop, disease, and advisory intelligence to
 ### 🔐 Smart Parcel Locker System
 **IoT-secured last-mile delivery**
 
-Connected locker network with secure OTP access, real-time status, and cloud sync — designed to dock with autonomous delivery endpoints.
+Connected locker network with secure OTP access, real-time status, and cloud sync, designed to dock with autonomous delivery endpoints.
 
 `ESP32` `AWS IoT Core` `MQTT` `React` `Node.js`
 
@@ -408,7 +408,7 @@ Embedded sensing for freshness and storage conditions, streaming telemetry to th
 ### 🤖 Offline AI Assistant
 **Private, on-device intelligence**
 
-Fully offline assistant running local LLMs with speech and RAG — no cloud dependency, full data privacy.
+Fully offline assistant running local LLMs with speech and RAG, no cloud dependency, full data privacy.
 
 `Ollama` `Whisper` `RAG` `LangGraph` `Python`
 
@@ -521,19 +521,19 @@ Active work in multi-agent systems, drone perception, and edge intelligence.
 ## `10` ⟶ &nbsp;Timeline
 
 ```text
-◆  NOW          Founder & CEO — VoltAeroTech · autonomous aerial systems
+◆  NOW          Founder & CEO, VoltAeroTech · autonomous aerial systems
 │               Researching GPS-denied navigation & drone perception
 │
-◆  BUILDING     Drone Systems Intern — UAV flight, integration & field testing
+◆  BUILDING     Drone Systems Intern, UAV flight, integration & field testing
 │               Patent filed · peer-reviewed research published
 │
 ◆  PROVING      Hackathon Winner · multiple-time Finalist
 │               First autonomous systems shipped end to end
 │
-◆  FOUNDATION   Computer Engineering — Artificial Intelligence specialization
+◆  FOUNDATION   Computer Engineering, Artificial Intelligence specialization
 ```
 
-<sub>VoltAeroTech, internship, and education details — exact dates can be added inline above.</sub>
+<sub>VoltAeroTech, internship, and education details, exact dates can be added inline above.</sub>
 
 <br/>
 
@@ -548,7 +548,7 @@ Active work in multi-agent systems, drone perception, and edge intelligence.
 <td valign="top" width="50%">
 
 #### 🛡 Patent
-**Patent Holder — Autonomous / Drone Systems**
+**Patent Holder, Autonomous / Drone Systems**
 Filed intellectual property in autonomous aerial technology.
 <!-- ▷ Add: patent title · application/grant number · year -->
 
@@ -556,7 +556,7 @@ Filed intellectual property in autonomous aerial technology.
 <td valign="top" width="50%">
 
 #### 📄 Publication
-**Peer-Reviewed Research — AI / Autonomous Systems**
+**Peer-Reviewed Research, AI / Autonomous Systems**
 Published research at the intersection of AI and autonomy.
 <!-- ▷ Add: paper title · venue/journal · year · DOI or link -->
 
@@ -575,7 +575,7 @@ Published research at the intersection of AI and autonomy.
 <!-- Baked stats card: generated by .github/workflows/stats.yml and served straight -->
 <!-- from this repo, so it can NEVER be rate-limited like the public stat services. -->
 <p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/Andy-XO/Andy-XO/main/assets/stats.svg" alt="GitHub statistics — followers, repos, stars, forks, and most-used languages"/>
+  <img width="98%" src="https://raw.githubusercontent.com/Andy-XO/Andy-XO/main/assets/stats.svg" alt="GitHub statistics, followers, repos, stars, forks, and most-used languages"/>
 </p>
 
 <p align="center">
@@ -603,7 +603,7 @@ Published research at the intersection of AI and autonomy.
 <tr>
 <td valign="top" width="60%">
 
-I collaborate on **AI, robotics, autonomous systems, aerospace, and deep-tech** — autonomy, perception, embedded intelligence, and systems that operate in the real world.
+I collaborate on **AI, robotics, autonomous systems, aerospace, and deep-tech**, autonomy, perception, embedded intelligence, and systems that operate in the real world.
 
 - 🤝 **Open to:** research collaboration · co-builds · founding-engineer conversations
 - 🧪 **Best fit:** AI / Robotics / UAV / Edge AI / Aerospace / Deep-tech
@@ -637,4 +637,4 @@ I collaborate on **AI, robotics, autonomous systems, aerospace, and deep-tech** 
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=15&pause=1200&color=5FC9F8&center=true&vCenter=true&width=620&height=30&lines=Engineer+%C2%B7+Researcher+%C2%B7+Builder;Intelligence+engineered+for+the+physical+world" alt="footer signature"/>
 </p>
 
-<p align="center"><sub>⭐ <a href="https://github.com/Andy-XO">Andy-XO</a> — building intelligent systems that touch the real world.</sub></p>
+<p align="center"><sub>⭐ <a href="https://github.com/Andy-XO">Andy-XO</a>, building intelligent systems that touch the real world.</sub></p>

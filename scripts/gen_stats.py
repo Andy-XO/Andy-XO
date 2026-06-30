@@ -24,7 +24,7 @@ import urllib.error
 
 API = "https://api.github.com"
 
-# Theme — must match the profile (cyan / electric blue on space-black).
+# Theme, must match the profile (cyan / electric blue on space-black).
 BG = "#05070D"
 GRID = "#12243B"
 CARD = "#0A0F1C"
@@ -36,7 +36,7 @@ TEXT = "#F4FAFF"
 MUTED = "#9FB4C7"
 SUBTLE = "#5FC9F8"
 
-# Language bar palette — theme-aligned shades (cyan → indigo → soft accents).
+# Language bar palette, theme-aligned shades (cyan → indigo → soft accents).
 LANG_PALETTE = ["#00D9FF", "#33A1FF", "#6E7BFF", "#3FCF8E", "#FFD21E", "#FF6F61", "#A78BFA"]
 
 

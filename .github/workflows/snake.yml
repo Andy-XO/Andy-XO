@@ -2,7 +2,7 @@
 #  Contribution Snake Animation
 #  Generates an animated SVG of the snake eating your contribution graph
 #  and pushes it to the `output` branch, which README.md references.
-#  No secrets needed — uses the built-in GITHUB_TOKEN.
+#  No secrets needed, uses the built-in GITHUB_TOKEN.
 # ───────────────────────────────────────────────────────────────────────
 name: Generate Snake Animation
 

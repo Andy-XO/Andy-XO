@@ -4,7 +4,7 @@
 #  back to the repo. Because the card is served from the repo (not a shared
 #  public service), it can NEVER be rate-limited (no more 503 / 402).
 #
-#  Uses the built-in GITHUB_TOKEN — NO personal token or secret required.
+#  Uses the built-in GITHUB_TOKEN, NO personal token or secret required.
 # ───────────────────────────────────────────────────────────────────────
 name: Refresh Stats Card
 
@@ -41,5 +41,5 @@ jobs:
             git commit -m "chore: refresh stats card [skip ci]"
             git push
           else
-            echo "Stats unchanged — nothing to commit."
+            echo "Stats unchanged, nothing to commit."
           fi
