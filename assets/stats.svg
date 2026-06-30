@@ -48,17 +48,20 @@
   <text x="40" y="236" font-family="'Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="3" fill="#5FC9F8" font-weight="600">MOST USED LANGUAGES</text>
   <clipPath id="barclip"><rect x="40" y="250" width="820" height="16" rx="8"/></clipPath>
   <g clip-path="url(#barclip)">
-    <rect x="40.0" y="250" width="804.6" height="16" fill="#00D9FF"/>
-    <rect x="844.6" y="250" width="8.1" height="16" fill="#33A1FF"/>
-    <rect x="852.7" y="250" width="7.3" height="16" fill="#6E7BFF"/>
+    <rect x="40.0" y="250" width="494.7" height="16" fill="#00D9FF"/>
+    <rect x="534.7" y="250" width="315.9" height="16" fill="#33A1FF"/>
+    <rect x="850.6" y="250" width="5.0" height="16" fill="#6E7BFF"/>
+    <rect x="855.5" y="250" width="4.5" height="16" fill="#3FCF8E"/>
     <rect x="40" y="250" width="820" height="16" fill="none"/>
   </g>
   <circle cx="46" cy="292" r="6" fill="#00D9FF"/>
-  <text x="60" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">JavaScript 98.1%</text>
+  <text x="60" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">JavaScript 60.3%</text>
   <circle cx="195.6" cy="292" r="6" fill="#33A1FF"/>
-  <text x="209.6" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">HTML 1.0%</text>
-  <circle cx="292.0" cy="292" r="6" fill="#6E7BFF"/>
-  <text x="306.0" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">CSS 0.9%</text>
+  <text x="209.6" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">Python 38.5%</text>
+  <circle cx="314.79999999999995" cy="292" r="6" fill="#6E7BFF"/>
+  <text x="328.79999999999995" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">HTML 0.6%</text>
+  <circle cx="411.19999999999993" cy="292" r="6" fill="#3FCF8E"/>
+  <text x="425.19999999999993" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">CSS 0.5%</text>
   <line x1="40" y1="324" x2="860" y2="324" stroke="#12243B" stroke-width="1"/>
   <circle cx="40" cy="324" r="3.5" fill="#00D9FF">
     <animate attributeName="cx" values="40;860;40" dur="6s" repeatCount="indefinite"/>
