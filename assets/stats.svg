@@ -48,8 +48,8 @@
   <text x="40" y="236" font-family="'Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="3" fill="#5FC9F8" font-weight="600">MOST USED LANGUAGES</text>
   <clipPath id="barclip"><rect x="40" y="250" width="820" height="16" rx="8"/></clipPath>
   <g clip-path="url(#barclip)">
-    <rect x="40.0" y="250" width="494.7" height="16" fill="#00D9FF"/>
-    <rect x="534.7" y="250" width="315.9" height="16" fill="#33A1FF"/>
+    <rect x="40.0" y="250" width="494.8" height="16" fill="#00D9FF"/>
+    <rect x="534.8" y="250" width="315.7" height="16" fill="#33A1FF"/>
     <rect x="850.6" y="250" width="5.0" height="16" fill="#6E7BFF"/>
     <rect x="855.5" y="250" width="4.5" height="16" fill="#3FCF8E"/>
     <rect x="40" y="250" width="820" height="16" fill="none"/>
