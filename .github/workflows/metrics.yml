@@ -14,13 +14,14 @@
 # ───────────────────────────────────────────────────────────────────────
 name: GitHub Metrics
 
+# NOTE: Manual-only by design — this workflow needs the METRICS_TOKEN secret.
+# It will NOT auto-run, so it can never fail unattended or email you.
+# After you add METRICS_TOKEN, run it once from the Actions tab, or
+# uncomment the `schedule` block below to refresh it automatically.
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  # schedule:
+  #   - cron: "0 */12 * * *"
 
 permissions:
   contents: write
