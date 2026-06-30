@@ -1,0 +1,33 @@
+<svg viewBox="0 0 1200 180" width="1200" height="180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Build intelligent systems. Bridge AI with the physical world.">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#05070D"/>
+      <stop offset="100%" stop-color="#060B16"/>
+    </linearGradient>
+    <linearGradient id="fwave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00D9FF"/>
+      <stop offset="50%" stop-color="#33A1FF"/>
+      <stop offset="100%" stop-color="#6E7BFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" fill="url(#fbg)"/>
+
+  <!-- Animated waves -->
+  <path fill="url(#fwave)" opacity="0.18">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+      M0,90 C200,40 400,140 600,90 C800,40 1000,140 1200,90 L1200,180 L0,180 Z;
+      M0,90 C200,140 400,40 600,90 C800,140 1000,40 1200,90 L1200,180 L0,180 Z;
+      M0,90 C200,40 400,140 600,90 C800,40 1000,140 1200,90 L1200,180 L0,180 Z"/>
+  </path>
+  <path fill="url(#fwave)" opacity="0.30">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+      M0,110 C220,70 420,150 600,110 C820,70 1020,150 1200,110 L1200,180 L0,180 Z;
+      M0,110 C220,150 420,70 600,110 C820,150 1020,70 1200,110 L1200,180 L0,180 Z;
+      M0,110 C220,70 420,150 600,110 C820,70 1020,150 1200,110 L1200,180 L0,180 Z"/>
+  </path>
+
+  <text x="600" y="70" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#F4FAFF">Bridging Artificial Intelligence with the Physical World</text>
+  <text x="600" y="100" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" letter-spacing="3" fill="#5FC9F8">ROBOTICS · AUTONOMOUS SYSTEMS · AEROSPACE · EMBEDDED AI</text>
+</svg>
