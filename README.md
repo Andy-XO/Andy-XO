@@ -186,7 +186,7 @@ Running **optimized neural models** on constrained hardware — quantized infere
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=05070D" alt="Bash"/>
 </p>
 
-**Currently Learning** &nbsp;<img src="https://img.shields.io/badge/C++-flat?style=flat-square&logo=cplusplus&logoColor=white&label=C%2B%2B&color=00599C&labelColor=0A0F1C" alt="C++"/> <img src="https://img.shields.io/badge/Java-flat?style=flat-square&logo=openjdk&logoColor=white&label=Java&color=ED8B00&labelColor=0A0F1C" alt="Java"/>
+**Currently Learning** &nbsp;<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0A0F1C" alt="C++"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0A0F1C" alt="Java"/>
 
 </details>
 
