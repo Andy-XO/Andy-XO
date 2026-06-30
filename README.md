@@ -9,7 +9,7 @@
 
 <!-- ╭──────────────────────────  HERO BANNER  ──────────────────────────╮ -->
 <p align="center">
-  <img src="./assets/hero-banner.svg" alt="Atharva Patil — Founder & AI / Robotics Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Andy-XO/Andy-XO/main/assets/hero-banner.svg" alt="Atharva Patil — Founder & AI / Robotics Engineer" width="100%"/>
 </p>
 
 <!-- ╭──────────────────────────  TYPING MISSION  ───────────────────────╮ -->
@@ -529,7 +529,7 @@ I collaborate on **AI, robotics, autonomous systems, aerospace, and deep-tech**.
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="./assets/footer-wave.svg" alt="Bridging AI with the physical world" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Andy-XO/Andy-XO/main/assets/footer-wave.svg" alt="Bridging AI with the physical world" width="100%"/>
 </p>
 
 <p align="center">
