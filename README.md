@@ -28,11 +28,9 @@
 
 <!-- ╭──────────────────────────  SOCIAL ROW  ───────────────────────────╮ -->
 <p align="center">
-  <!-- ▷ EDIT: replace the linkedin handle below -->
-  <a href="https://www.linkedin.com/in/atharva-patil"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070D" alt="LinkedIn"/></a>
-  <!-- ▷ EDIT: replace the x/twitter handle below -->
-  <a href="https://x.com/AtharvaPatil"><img src="https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=05070D" alt="X / Twitter"/></a>
-  <a href="mailto:atharvapatil503@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070D" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/atharvauav/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070D" alt="LinkedIn"/></a>
+  <a href="https://x.com/Atharva144012"><img src="https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=05070D" alt="X / Twitter"/></a>
+  <a href="mailto:atharvap.robotics@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070D" alt="Email"/></a>
   <a href="https://github.com/Andy-XO"><img src="https://komarev.com/ghpvc/?username=Andy-XO&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=05070D" alt="Profile views"/></a>
 </p>
 
@@ -513,7 +511,7 @@ I collaborate on **AI, robotics, autonomous systems, aerospace, and deep-tech**.
 
 <p>
   <a href="https://www.linkedin.com/in/atharvauav/"><img src="https://img.shields.io/badge/LinkedIn-Atharva%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070D" alt="LinkedIn"/></a><br/>
-  <a href="mailto:atharvap.robotics@gmail.com"><img src="https://img.shields.io/badge/Email-atharvapatil503-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070D" alt="Email"/></a><br/>
+  <a href="mailto:atharvap.robotics@gmail.com"><img src="https://img.shields.io/badge/Email-atharvap.robotics-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070D" alt="Email"/></a><br/>
   <a href="https://x.com/Atharva144012"><img src="https://img.shields.io/badge/X-@AtharvaPatil-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=05070D" alt="X"/></a><br/>
   <a href="https://github.com/Andy-XO"><img src="https://img.shields.io/badge/GitHub-Andy--XO-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=05070D" alt="GitHub"/></a>
 </p>
