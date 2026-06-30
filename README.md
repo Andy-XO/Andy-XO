@@ -1,29 +1,29 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════════╗
   ║  ATHARVA PATIL · GitHub Profile README                                 ║
+  ║  Identity: Engineer — AI · Robotics · Autonomous Systems               ║
   ║  Theme: Mission-Control Dark · Cyan / Electric Blue                    ║
   ║  Repo:  Andy-XO/Andy-XO  (special profile repo)                        ║
-  ║  Edit markers: search for  ▷ EDIT  to find values to personalize.      ║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
 <!-- ╭──────────────────────────  HERO BANNER  ──────────────────────────╮ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andy-XO/Andy-XO/main/assets/hero-banner.svg" alt="Atharva Patil — Founder & AI / Robotics Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Andy-XO/Andy-XO/main/assets/hero-banner.svg" alt="Atharva Patil — Engineer, Intelligent Autonomous Systems" width="100%"/>
 </p>
 
 <!-- ╭──────────────────────────  TYPING MISSION  ───────────────────────╮ -->
 <p align="center">
   <a href="https://github.com/Andy-XO">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=46&lines=Bridging+Artificial+Intelligence+with+the+Physical+World;Robotics+%C2%B7+Autonomous+Systems+%C2%B7+Embedded+Computing;Aerospace+Engineering+%C2%B7+Intelligent+Software" alt="Mission statement"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=920&height=46&lines=Bridging+Artificial+Intelligence+with+the+Physical+World;Systems+that+perceive%2C+reason%2C+and+act;Models+that+fly+%C2%B7+Inference+at+the+edge" alt="Mission statement"/>
   </a>
 </p>
 
 <!-- ╭──────────────────────────  IDENTITY ROW  ─────────────────────────╮ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder%20%26%20CEO-VoltAeroTech-00D9FF?style=for-the-badge&labelColor=05070D" alt="Founder & CEO"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20Robotics-Engineer-33A1FF?style=for-the-badge&labelColor=05070D" alt="AI & Robotics Engineer"/>
-  <img src="https://img.shields.io/badge/Autonomous%20Systems-Researcher-6E7BFF?style=for-the-badge&labelColor=05070D" alt="Autonomous Systems Researcher"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Engineer-00D9FF?style=for-the-badge&labelColor=05070D" alt="AI & ML Engineer"/>
+  <img src="https://img.shields.io/badge/Robotics%20%26%20Autonomy-Engineer-33A1FF?style=for-the-badge&labelColor=05070D" alt="Robotics & Autonomy"/>
+  <img src="https://img.shields.io/badge/Embedded%20%26%20Edge%20AI-Builder-6E7BFF?style=for-the-badge&labelColor=05070D" alt="Embedded & Edge AI"/>
 </p>
 
 <!-- ╭──────────────────────────  SOCIAL ROW  ───────────────────────────╮ -->
@@ -37,26 +37,68 @@
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION · ABOUT                                                       -->
+<!-- SECTION · ENGINEERING PHILOSOPHY                                      -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-## `01` ⟶ &nbsp;Who I Am
+## `01` ⟶ &nbsp;Engineering Philosophy
 
-> I build **intelligent autonomous systems** at the intersection of artificial intelligence and the physical world.
+> **Bridging Artificial Intelligence with the physical world through Robotics, Autonomous Systems, Embedded Computing, Aerospace Engineering, and Intelligent Software.**
 
-I'm **Atharva Patil** — Founder & CEO of **VoltAeroTech**, and a Computer Engineering student specializing in **Artificial Intelligence**. My work fuses **machine learning, computer vision, robotics, embedded systems, and aerospace engineering** into deployable systems: drones that navigate without GPS, edge devices that reason offline, and software that turns sensor data into autonomous decisions.
+I build systems that **perceive, reason, and act** in the physical world.
 
-I operate across the full stack of intelligent hardware — from **neural network architecture and model optimization**, through **sensor fusion, SLAM, and flight control**, down to **embedded firmware and cloud telemetry**. I care about systems that are *real*: that fly, perceive, decide, and act in the world rather than in a notebook.
+My work lives at the boundary where machine intelligence meets hardware — autonomous aircraft that hold their position without GPS, edge devices that run neural inference with no link to the cloud, and control software that turns raw sensor streams into decisions in milliseconds. I treat **intelligence as an engineering discipline**: designed against real constraints — power budgets, latency ceilings, and the unforgiving physics of flight — then measured, hardened, and deployed.
+
+The throughline is **autonomy**: machines that understand their environment and close the loop between perception and action without a human in it. Models that fly. Inference that runs at the edge. Software that holds up outside the lab.
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- SECTION · ENGINEERING PROFILE                                         -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+## `02` ⟶ &nbsp;Engineering Profile
+
+I engineer intelligent systems end to end — from **neural architecture and computer-vision pipelines**, through **sensor fusion, SLAM, and flight control**, down to **embedded firmware and cloud telemetry**. The work fuses artificial intelligence, machine learning, robotics, autonomous systems, embedded computing, data engineering, and aerospace technology into platforms that operate reliably in the real world.
 
 ```yaml
-Atharva Patil:
-  role:        Founder & CEO @ VoltAeroTech
-  education:   Computer Engineering · AI Specialization
-  building:    Autonomous UAVs · Edge AI · Intelligent Software
-  researching: GPS-Denied Navigation · Drone Perception · Offline LLMs
-  philosophy:  "Bridge AI with the physical world."
-  open_to:     Research · Collaboration · Defense & Aerospace · Deep-tech
+engineer:
+  focus:        Intelligent Autonomous Systems
+  domains:      AI · Robotics · Computer Vision · Embedded · Aerospace
+  building:     Autonomous UAVs · Edge-AI devices · Real-time perception
+  researching:  GPS-denied navigation · Drone perception · Offline LLMs
+  approach:     Intelligence engineered against real-world constraints
 ```
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- SECTION · CURRENT FOCUS                                               -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+## `03` ⟶ &nbsp;Current Focus
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+#### 🛩 Autonomous UAVs
+Onboard perception, planning, and **GPS-denied navigation** for aircraft that fly themselves where satellites can't reach.
+
+</td>
+<td valign="top" width="33%">
+
+#### ⚡ Edge & Embedded AI
+Running **optimized neural models** on constrained hardware — quantized inference at the edge, offline and in real time.
+
+</td>
+<td valign="top" width="33%">
+
+#### 🧠 Offline LLM Systems
+**Private, on-device reasoning** — language models and RAG that run with no cloud dependency and no data leaving the device.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -64,7 +106,7 @@ Atharva Patil:
 <!-- SECTION · ENGINEERING DOMAINS                                         -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-## `02` ⟶ &nbsp;Engineering Domains
+## `04` ⟶ &nbsp;Engineering Domains
 
 <table>
 <tr>
@@ -105,7 +147,6 @@ Atharva Patil:
 `Embedded AI`
 `Embedded Systems`
 `Cyber-Physical Systems`
-`Digital Twins`
 `Internet of Things`
 `Cloud Computing`
 `Distributed Systems`
@@ -118,24 +159,25 @@ Atharva Patil:
 </tr>
 </table>
 
-<sub>Also working in: GIS · Remote Sensing · Automation · Research &amp; Development</sub>
+<sub>Also working across: GIS · Remote Sensing · Automation · Research &amp; Development</sub>
 
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION · TECH STACK                                                  -->
+<!-- SECTION · SKILLS MATRIX (tiered)                                      -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-## `03` ⟶ &nbsp;Technology Stack
+## `05` ⟶ &nbsp;Skills Matrix
+
+<sub>Tiered honestly — **Core** (build with daily) · **Working Knowledge** (productive) · **Currently Learning** (actively leveling up) · **Research Interest**.</sub>
 
 <details open>
 <summary><b>&nbsp;Languages</b></summary>
 <br/>
+
+**Core**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=05070D" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=05070D" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=05070D" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=05070D" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=05070D" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=05070D" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=05070D" alt="SQL"/>
@@ -143,64 +185,68 @@ Atharva Patil:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=05070D" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=05070D" alt="Bash"/>
 </p>
+
+**Currently Learning** &nbsp;<img src="https://img.shields.io/badge/C++-flat?style=flat-square&logo=cplusplus&logoColor=white&label=C%2B%2B&color=00599C&labelColor=0A0F1C" alt="C++"/> <img src="https://img.shields.io/badge/Java-flat?style=flat-square&logo=openjdk&logoColor=white&label=Java&color=ED8B00&labelColor=0A0F1C" alt="Java"/>
+
 </details>
 
 <details open>
-<summary><b>&nbsp;AI &amp; Machine Learning</b></summary>
+<summary><b>&nbsp;Artificial Intelligence &amp; Machine Learning</b></summary>
 <br/>
+
+**Core**
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=05070D" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=05070D" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=05070D" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=05070D" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black&labelColor=05070D" alt="YOLOv8"/>
-  <img src="https://img.shields.io/badge/Ultralytics-0B23A9?style=for-the-badge&logo=ultralytics&logoColor=white&labelColor=05070D" alt="Ultralytics"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=05070D" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=05070D" alt="Transformers"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=05070D" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white&labelColor=05070D" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=for-the-badge&logo=crewai&logoColor=white&labelColor=05070D" alt="CrewAI"/>
-  <img src="https://img.shields.io/badge/AutoGen-2563EB?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=05070D" alt="AutoGen"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=05070D" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=05070D" alt="Whisper"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00D9FF?style=for-the-badge&logo=ultralytics&logoColor=black&labelColor=05070D" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-9C27B0?style=for-the-badge&labelColor=05070D" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=05070D" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge&logoColor=black&labelColor=05070D" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Vector%20DBs-FF4081?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=05070D" alt="Vector Databases"/>
-  <img src="https://img.shields.io/badge/Fine--Tuning-9C27B0?style=for-the-badge&labelColor=05070D" alt="Fine-Tuning"/>
-  <img src="https://img.shields.io/badge/Model%20Optimization-33A1FF?style=for-the-badge&labelColor=05070D" alt="Model Optimization"/>
+  <img src="https://img.shields.io/badge/Embeddings-33A1FF?style=for-the-badge&labelColor=05070D" alt="Embeddings"/>
 </p>
+
+**Currently Learning** &nbsp;<img src="https://img.shields.io/badge/Ultralytics-0B23A9?style=flat-square&logo=ultralytics&logoColor=white&labelColor=0A0F1C" alt="Ultralytics"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white&labelColor=0A0F1C" alt="Ollama"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white&labelColor=0A0F1C" alt="LangGraph"/> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0A0F1C" alt="Transformers"/> <img src="https://img.shields.io/badge/Vector%20DBs-FF4081?style=flat-square&logo=pinecone&logoColor=white&labelColor=0A0F1C" alt="Vector Databases"/> <img src="https://img.shields.io/badge/Fine--Tuning-9C27B0?style=flat-square&labelColor=0A0F1C" alt="Fine-Tuning"/> <img src="https://img.shields.io/badge/Quantized%20AI-33A1FF?style=flat-square&labelColor=0A0F1C" alt="QAI"/>
+
+**Research Interest** &nbsp;`Multi-Agent AI` · `Distributed AI` · `Edge AI` · `Embedded AI` · `AI Infrastructure` · `Inference Optimization`
+
 </details>
 
 <details open>
 <summary><b>&nbsp;Software Development</b></summary>
 <br/>
+
+**Core**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=05070D" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=05070D" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=05070D" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=05070D" alt="Express"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=05070D" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=05070D" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=05070D" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=05070D" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white&labelColor=05070D" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=05070D" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=05070D" alt="Socket.IO"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&labelColor=05070D" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=05070D" alt="GraphQL"/>
 </p>
+
+**Working Knowledge** &nbsp;<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white&labelColor=0A0F1C" alt="Material UI"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white&labelColor=0A0F1C" alt="GraphQL"/>
+
 </details>
 
 <details open>
 <summary><b>&nbsp;Databases</b></summary>
 <br/>
+
+**Core**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=05070D" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=05070D" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=05070D" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=05070D" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=05070D" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=05070D" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=05070D" alt="Prisma ORM"/>
 </p>
+
+**Working Knowledge** &nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0A0F1C" alt="MongoDB"/> &nbsp; **Currently Learning** &nbsp;<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white&labelColor=0A0F1C" alt="Prisma ORM"/>
+
 </details>
 
 <details open>
@@ -231,11 +277,12 @@ Atharva Patil:
   <img src="https://img.shields.io/badge/ArduPilot-0082FC?style=for-the-badge&labelColor=05070D" alt="ArduPilot"/>
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=05070D" alt="ROS"/>
   <img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=05070D" alt="Embedded Linux"/>
+  <img src="https://img.shields.io/badge/IoT-00D9FF?style=for-the-badge&labelColor=05070D" alt="IoT"/>
 </p>
 </details>
 
 <details open>
-<summary><b>&nbsp;Development &amp; Engineering Tools</b></summary>
+<summary><b>&nbsp;Development Tools</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=05070D" alt="Git"/>
@@ -245,7 +292,6 @@ Atharva Patil:
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=05070D" alt="Postman"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=05070D" alt="Figma"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=05070D" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=05070D" alt="Fusion 360"/>
   <img src="https://img.shields.io/badge/SolidWorks-D5232A?style=for-the-badge&logo=dassaultsystemes&logoColor=white&labelColor=05070D" alt="SolidWorks"/>
 </p>
 </details>
@@ -256,7 +302,7 @@ Atharva Patil:
 <!-- SECTION · FEATURED PROJECTS                                           -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-## `04` ⟶ &nbsp;Featured Projects
+## `06` ⟶ &nbsp;Featured Projects
 
 <table>
 <tr>
@@ -265,12 +311,12 @@ Atharva Patil:
 ### 🛰 VoltAeroTech
 **Deep-tech venture · Autonomous aerial systems**
 
-Founder-led startup building autonomous drone platforms for logistics, inspection, and defense — uniting flight control, onboard AI perception, and cloud fleet management into one stack.
+Founder-led venture building autonomous drone platforms for logistics, inspection, and defense — uniting flight control, onboard AI perception, and cloud fleet management into one stack.
 
 `AI` `Robotics` `Aerospace` `Embedded` `Cloud`
 
 <sub>**Domain:** Autonomous Systems / Aerospace</sub>
-<sub>**Highlights:** Modular flight stack · onboard inference · fleet telemetry</sub>
+<sub>**Architecture:** Modular flight stack · onboard inference · fleet telemetry</sub>
 
 </td>
 <td valign="top" width="50%">
@@ -283,7 +329,7 @@ Autonomous payload delivery with mission planning, real-time obstacle avoidance,
 `Pixhawk` `ArduPilot` `MAVLink` `Computer Vision` `Python`
 
 <sub>**Domain:** UAV Systems / Path Planning</sub>
-<sub>**Highlights:** Waypoint autonomy · vision-guided landing · live telemetry</sub>
+<sub>**Architecture:** Waypoint autonomy · vision-guided landing · live telemetry</sub>
 
 </td>
 </tr>
@@ -293,40 +339,40 @@ Autonomous payload delivery with mission planning, real-time obstacle avoidance,
 ### 🧭 GPS-Denied Drone Navigation
 **Navigation without satellites**
 
-Visual-inertial navigation enabling stable flight where GPS is jammed or unavailable — using SLAM, optical flow, and sensor fusion for position estimation.
+Visual-inertial navigation for stable flight where GPS is jammed or unavailable — fusing SLAM, optical flow, and inertial data for onboard position estimation.
 
 `SLAM` `Sensor Fusion` `OpenCV` `ROS` `Edge AI`
 
 <sub>**Domain:** Autonomous Navigation / Defense Tech</sub>
-<sub>**Highlights:** VIO pipeline · onboard SLAM · drift-corrected localization</sub>
+<sub>**Architecture:** VIO pipeline · onboard SLAM · drift-corrected localization</sub>
 
 </td>
 <td valign="top" width="50%">
 
-### 🔐 Smart Parcel Locker System
-**IoT-secured last-mile delivery**
+### 🌾 KrishiMitra
+**AI for agriculture**
 
-Connected locker network with OTP/secure access, real-time status, and cloud sync — designed to integrate with autonomous delivery endpoints.
+Decision-support platform delivering crop, disease, and advisory intelligence to farmers through computer vision and ML on accessible hardware.
 
-`ESP32` `AWS IoT Core` `MQTT` `React` `Node.js`
+`PyTorch` `Computer Vision` `FastAPI` `React` `ML`
 
-<sub>**Domain:** IoT / Cyber-Physical Systems</sub>
-<sub>**Highlights:** Secure access control · cloud sync · live monitoring</sub>
+<sub>**Domain:** Applied AI / Computer Vision</sub>
+<sub>**Architecture:** Disease detection · advisory engine · low-resource inference</sub>
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-### 🌾 KrishiMitra
-**AI for agriculture**
+### 🔐 Smart Parcel Locker System
+**IoT-secured last-mile delivery**
 
-Decision-support platform giving farmers crop, disease, and advisory intelligence through computer vision and ML models on accessible hardware.
+Connected locker network with secure OTP access, real-time status, and cloud sync — designed to dock with autonomous delivery endpoints.
 
-`PyTorch` `Computer Vision` `FastAPI` `React` `ML`
+`ESP32` `AWS IoT Core` `MQTT` `React` `Node.js`
 
-<sub>**Domain:** Applied AI / Computer Vision</sub>
-<sub>**Highlights:** Disease detection · advisory engine · low-resource inference</sub>
+<sub>**Domain:** IoT / Cyber-Physical Systems</sub>
+<sub>**Architecture:** Secure access control · cloud sync · live monitoring</sub>
 
 </td>
 <td valign="top" width="50%">
@@ -334,12 +380,12 @@ Decision-support platform giving farmers crop, disease, and advisory intelligenc
 ### 🏗 AI Construction Safety Monitoring
 **Vision-based site compliance**
 
-Real-time CV system detecting PPE compliance, hazard zones, and unsafe behavior on construction sites, with instant alerting.
+Real-time computer-vision system detecting PPE compliance, hazard zones, and unsafe behavior on construction sites, with instant alerting.
 
 `YOLOv8` `Ultralytics` `OpenCV` `Python` `Edge AI`
 
 <sub>**Domain:** Computer Vision / Safety Systems</sub>
-<sub>**Highlights:** PPE detection · zone intrusion alerts · edge deployment</sub>
+<sub>**Architecture:** PPE detection · zone-intrusion alerts · edge deployment</sub>
 
 </td>
 </tr>
@@ -354,7 +400,7 @@ Embedded sensing for freshness and storage conditions, streaming telemetry to th
 `ESP32` `Sensors` `AWS IoT Core` `MQTT` `Dashboard`
 
 <sub>**Domain:** IoT / Embedded Systems</sub>
-<sub>**Highlights:** Multi-sensor fusion · anomaly alerts · cloud dashboard</sub>
+<sub>**Architecture:** Multi-sensor fusion · anomaly alerts · cloud dashboard</sub>
 
 </td>
 <td valign="top" width="50%">
@@ -364,10 +410,10 @@ Embedded sensing for freshness and storage conditions, streaming telemetry to th
 
 Fully offline assistant running local LLMs with speech and RAG — no cloud dependency, full data privacy.
 
-`Ollama` `Whisper` `RAG` `LangChain` `Python`
+`Ollama` `Whisper` `RAG` `LangGraph` `Python`
 
 <sub>**Domain:** Edge AI / Offline LLM Systems</sub>
-<sub>**Highlights:** Local inference · voice I/O · private RAG knowledge base</sub>
+<sub>**Architecture:** Local inference · voice I/O · private RAG knowledge base</sub>
 
 </td>
 </tr>
@@ -382,17 +428,15 @@ Full-stack, performance-tuned travel and tourism platform with a polished, anima
 `Next.js` `React` `TypeScript` `Tailwind` `Node.js`
 
 <sub>**Domain:** Full-Stack Engineering</sub>
-<sub>**Highlights:** Animated UI · responsive design · optimized delivery</sub>
+<sub>**Architecture:** Animated UI · responsive design · optimized delivery</sub>
 
 </td>
 <td valign="top" width="50%">
 
-### 🧩 More on the way
+### 🧩 In Development
 **Research → prototype → product**
 
-New work in multi-agent systems, drone perception, and edge intelligence is in active development.
-
-`Pinned repos below ↓`
+Active work in multi-agent systems, drone perception, and edge intelligence.
 
 <sub>**Explore:** [github.com/Andy-XO](https://github.com/Andy-XO?tab=repositories)</sub>
 
@@ -406,52 +450,42 @@ New work in multi-agent systems, drone perception, and edge intelligence is in a
 <!-- SECTION · ACHIEVEMENTS                                                -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-## `05` ⟶ &nbsp;Achievements & Experience
+## `07` ⟶ &nbsp;Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🛡_Patent_Holder-00D9FF?style=for-the-badge&labelColor=05070D" alt="Patent Holder"/>
-  <img src="https://img.shields.io/badge/📄_Research_Publication-33A1FF?style=for-the-badge&labelColor=05070D" alt="Research Publication"/>
-  <img src="https://img.shields.io/badge/🏆_Hackathon_Winner-6E7BFF?style=for-the-badge&labelColor=05070D" alt="Hackathon Winner"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🥈_Multiple_Hackathon_Finalist-00D9FF?style=for-the-badge&labelColor=05070D" alt="Multiple Hackathon Finalist"/>
-  <img src="https://img.shields.io/badge/🚀_Startup_Founder-33A1FF?style=for-the-badge&labelColor=05070D" alt="Startup Founder"/>
-  <img src="https://img.shields.io/badge/🛩_Drone_Systems_Intern-6E7BFF?style=for-the-badge&labelColor=05070D" alt="Drone Systems Intern"/>
-  <img src="https://img.shields.io/badge/🔬_Research_Engineer-00D9FF?style=for-the-badge&labelColor=05070D" alt="Research Engineer"/>
+  <img src="https://img.shields.io/badge/Patent_Holder-00D9FF?style=for-the-badge&labelColor=05070D" alt="Patent Holder"/>
+  <img src="https://img.shields.io/badge/Research_Publication-33A1FF?style=for-the-badge&labelColor=05070D" alt="Research Publication"/>
+  <img src="https://img.shields.io/badge/Hackathon_Winner-6E7BFF?style=for-the-badge&labelColor=05070D" alt="Hackathon Winner"/>
+  <img src="https://img.shields.io/badge/Multiple_Hackathon_Finalist-00D9FF?style=for-the-badge&labelColor=05070D" alt="Multiple Hackathon Finalist"/>
+  <img src="https://img.shields.io/badge/Drone_Systems_Intern-33A1FF?style=for-the-badge&labelColor=05070D" alt="Drone Systems Intern"/>
 </p>
 
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION · RESEARCH & LEARNING                                         -->
+<!-- SECTION · CURRENT RESEARCH                                            -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-## `06` ⟶ &nbsp;Current Research & Focus
+## `08` ⟶ &nbsp;Current Research
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-#### 🔬 Active Research
+#### 🔬 Perception & Autonomy
 - Autonomous UAVs & flight intelligence
 - GPS-denied navigation & localization
 - Drone perception & onboard computer vision
-- Embedded AI & Edge AI inference
-- Multi-agent systems & coordination
-- Offline / on-device LLM systems
-- Defense & aerospace autonomy
+- Sensor fusion for cyber-physical systems
 
 </td>
 <td valign="top" width="50%">
 
-#### 📚 Currently Learning
-- CUDA & GPU programming
-- Reinforcement learning
-- Distributed AI & federated learning
-- Diffusion models
-- Model quantization
-- Kubernetes & AI infrastructure
-- MLOps at production scale
+#### 🧠 Intelligence at the Edge
+- Embedded AI & Edge AI inference
+- Multi-agent systems & coordination
+- Offline / on-device LLM systems
+- Defense & aerospace autonomy
 
 </td>
 </tr>
@@ -460,10 +494,83 @@ New work in multi-agent systems, drone perception, and edge intelligence is in a
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION · GITHUB STATS                                                -->
+<!-- SECTION · CURRENTLY LEARNING                                          -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-## `07` ⟶ &nbsp;GitHub Analytics
+## `09` ⟶ &nbsp;Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white&labelColor=0A0F1C" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/GPU%20Programming-76B900?style=flat-square&labelColor=0A0F1C" alt="GPU Programming"/>
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-FF6F61?style=flat-square&labelColor=0A0F1C" alt="Reinforcement Learning"/>
+  <img src="https://img.shields.io/badge/Distributed%20AI-33A1FF?style=flat-square&labelColor=0A0F1C" alt="Distributed AI"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0A0F1C" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Federated%20Learning-6E7BFF?style=flat-square&labelColor=0A0F1C" alt="Federated Learning"/>
+  <img src="https://img.shields.io/badge/Diffusion%20Models-9C27B0?style=flat-square&labelColor=0A0F1C" alt="Diffusion Models"/>
+  <img src="https://img.shields.io/badge/MLOps-00D9FF?style=flat-square&labelColor=0A0F1C" alt="MLOps"/>
+  <img src="https://img.shields.io/badge/AI%20Infrastructure-5FC9F8?style=flat-square&labelColor=0A0F1C" alt="AI Infrastructure"/>
+  <img src="https://img.shields.io/badge/Model%20Quantization-3FCF8E?style=flat-square&labelColor=0A0F1C" alt="Model Quantization"/>
+</p>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- SECTION · TIMELINE / EXPERIENCE                                       -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+## `10` ⟶ &nbsp;Timeline
+
+```text
+◆  NOW          Founder & CEO — VoltAeroTech · autonomous aerial systems
+│               Researching GPS-denied navigation & drone perception
+│
+◆  BUILDING     Drone Systems Intern — UAV flight, integration & field testing
+│               Patent filed · peer-reviewed research published
+│
+◆  PROVING      Hackathon Winner · multiple-time Finalist
+│               First autonomous systems shipped end to end
+│
+◆  FOUNDATION   Computer Engineering — Artificial Intelligence specialization
+```
+
+<sub>VoltAeroTech, internship, and education details — exact dates can be added inline above.</sub>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- SECTION · PUBLICATIONS & PATENTS                                      -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+## `11` ⟶ &nbsp;Publications & Patents
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🛡 Patent
+**Patent Holder — Autonomous / Drone Systems**
+Filed intellectual property in autonomous aerial technology.
+<!-- ▷ Add: patent title · application/grant number · year -->
+
+</td>
+<td valign="top" width="50%">
+
+#### 📄 Publication
+**Peer-Reviewed Research — AI / Autonomous Systems**
+Published research at the intersection of AI and autonomy.
+<!-- ▷ Add: paper title · venue/journal · year · DOI or link -->
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- SECTION · GITHUB ANALYTICS                                            -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+## `12` ⟶ &nbsp;GitHub Analytics
 
 <!-- Baked stats card: generated by .github/workflows/stats.yml and served straight -->
 <!-- from this repo, so it can NEVER be rate-limited like the public stat services. -->
@@ -480,7 +587,6 @@ New work in multi-agent systems, drone perception, and edge intelligence is in a
 </p>
 
 <!-- ╭──────────────────────  CONTRIBUTION SNAKE  ──────────────────────╮ -->
-<!-- Rendered by the Snake GitHub Action into the `output` branch.       -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Andy-XO/Andy-XO/output/github-snake-dark.svg" alt="Contribution snake animation"/>
 </p>
@@ -491,15 +597,15 @@ New work in multi-agent systems, drone perception, and edge intelligence is in a
 <!-- SECTION · CONTACT                                                     -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-## `08` ⟶ &nbsp;Let's Build Something Intelligent
+## `13` ⟶ &nbsp;Let's Build Something Intelligent
 
 <table>
 <tr>
 <td valign="top" width="60%">
 
-I collaborate on **AI, robotics, autonomous systems, aerospace, and deep-tech**. If you're working on something at the edge of what's possible — autonomy, perception, embedded intelligence, or defense-grade systems — let's talk.
+I collaborate on **AI, robotics, autonomous systems, aerospace, and deep-tech** — autonomy, perception, embedded intelligence, and systems that operate in the real world.
 
-- 🤝 **Open to:** research collaboration · co-builds · advisory · founding-engineer conversations
+- 🤝 **Open to:** research collaboration · co-builds · founding-engineer conversations
 - 🧪 **Best fit:** AI / Robotics / UAV / Edge AI / Aerospace / Deep-tech
 - ⚡ **Fastest reach:** email or LinkedIn
 
@@ -509,7 +615,7 @@ I collaborate on **AI, robotics, autonomous systems, aerospace, and deep-tech**.
 <p>
   <a href="https://www.linkedin.com/in/atharvauav/"><img src="https://img.shields.io/badge/LinkedIn-Atharva%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070D" alt="LinkedIn"/></a><br/>
   <a href="mailto:atharvap.robotics@gmail.com"><img src="https://img.shields.io/badge/Email-atharvap.robotics-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070D" alt="Email"/></a><br/>
-  <a href="https://x.com/Atharva144012"><img src="https://img.shields.io/badge/X-@AtharvaPatil-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=05070D" alt="X"/></a><br/>
+  <a href="https://x.com/Atharva144012"><img src="https://img.shields.io/badge/X-@Atharva144012-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=05070D" alt="X"/></a><br/>
   <a href="https://github.com/Andy-XO"><img src="https://img.shields.io/badge/GitHub-Andy--XO-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=05070D" alt="GitHub"/></a>
 </p>
 
@@ -528,7 +634,7 @@ I collaborate on **AI, robotics, autonomous systems, aerospace, and deep-tech**.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=15&pause=1200&color=5FC9F8&center=true&vCenter=true&width=600&height=30&lines=Founder+%C2%B7+Engineer+%C2%B7+Researcher;Designed+%26+engineered+by+Atharva+Patil" alt="footer signature"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=15&pause=1200&color=5FC9F8&center=true&vCenter=true&width=620&height=30&lines=Engineer+%C2%B7+Researcher+%C2%B7+Builder;Intelligence+engineered+for+the+physical+world" alt="footer signature"/>
 </p>
 
-<p align="center"><sub>⭐ From <a href="https://github.com/Andy-XO">Andy-XO</a> — building intelligent systems that touch the real world.</sub></p>
+<p align="center"><sub>⭐ <a href="https://github.com/Andy-XO">Andy-XO</a> — building intelligent systems that touch the real world.</sub></p>
