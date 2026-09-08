@@ -30,7 +30,7 @@
   <g>
     <rect x="254" y="116" width="196" height="96" rx="12" fill="#0A0F1C" stroke="#16324B" stroke-width="1"/>
     <rect x="254" y="116" width="4" height="96" rx="2" fill="url(#acc)"/>
-    <text x="276" y="162" font-family="'Segoe UI',Arial,sans-serif" font-size="34" font-weight="800" fill="#F4FAFF">3</text>
+    <text x="276" y="162" font-family="'Segoe UI',Arial,sans-serif" font-size="34" font-weight="800" fill="#F4FAFF">4</text>
     <text x="276" y="188" font-family="'Segoe UI',Arial,sans-serif" font-size="11" letter-spacing="2" fill="#9FB4C7" font-weight="600">PUBLIC REPOS</text>
   </g>
   <g>
@@ -48,20 +48,23 @@
   <text x="40" y="236" font-family="'Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="3" fill="#5FC9F8" font-weight="600">MOST USED LANGUAGES</text>
   <clipPath id="barclip"><rect x="40" y="250" width="820" height="16" rx="8"/></clipPath>
   <g clip-path="url(#barclip)">
-    <rect x="40.0" y="250" width="721.7" height="16" fill="#00D9FF"/>
-    <rect x="761.7" y="250" width="75.1" height="16" fill="#33A1FF"/>
-    <rect x="836.8" y="250" width="14.6" height="16" fill="#6E7BFF"/>
-    <rect x="851.4" y="250" width="8.6" height="16" fill="#3FCF8E"/>
+    <rect x="40.0" y="250" width="504.0" height="16" fill="#00D9FF"/>
+    <rect x="544.0" y="250" width="194.9" height="16" fill="#33A1FF"/>
+    <rect x="738.9" y="250" width="93.6" height="16" fill="#6E7BFF"/>
+    <rect x="832.4" y="250" width="26.1" height="16" fill="#3FCF8E"/>
+    <rect x="858.6" y="250" width="2.0" height="16" fill="#FFD21E"/>
     <rect x="40" y="250" width="820" height="16" fill="none"/>
   </g>
   <circle cx="46" cy="292" r="6" fill="#00D9FF"/>
-  <text x="60" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">JavaScript 88.0%</text>
-  <circle cx="195.6" cy="292" r="6" fill="#33A1FF"/>
-  <text x="209.6" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">Python 9.2%</text>
-  <circle cx="307.2" cy="292" r="6" fill="#6E7BFF"/>
-  <text x="321.2" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">CSS 1.8%</text>
-  <circle cx="396.0" cy="292" r="6" fill="#3FCF8E"/>
-  <text x="410.0" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">HTML 1.0%</text>
+  <text x="60" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">Python 61.5%</text>
+  <circle cx="165.2" cy="292" r="6" fill="#33A1FF"/>
+  <text x="179.2" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">TypeScript 23.8%</text>
+  <circle cx="314.79999999999995" cy="292" r="6" fill="#6E7BFF"/>
+  <text x="328.79999999999995" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">JavaScript 11.4%</text>
+  <circle cx="464.4" cy="292" r="6" fill="#3FCF8E"/>
+  <text x="478.4" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">CSS 3.2%</text>
+  <circle cx="553.1999999999999" cy="292" r="6" fill="#FFD21E"/>
+  <text x="567.1999999999999" y="296" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#9FB4C7">HTML 0.2%</text>
   <line x1="40" y1="324" x2="860" y2="324" stroke="#12243B" stroke-width="1"/>
   <circle cx="40" cy="324" r="3.5" fill="#00D9FF">
     <animate attributeName="cx" values="40;860;40" dur="6s" repeatCount="indefinite"/>
